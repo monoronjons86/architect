@@ -75,3 +75,27 @@
     margin-bottom: 20px;
 
 }
+/* end features */
+
+/* start enjoy */
+.enjoy{
+    display: flex;
+    padding: 0px 150px;
+    margin-top:50px;
+    gap:10px;
+    height: 600px;
+}
+.enjoy-left{
+    width: 50%;
+
+}
+.enjoy-right{
+width: 50%;
+}
+.enjoy-right img{
+    width: 100%;
+    height: 100%;
+}
+.enjoy-desktop,.enjoy-drag,.enjoy-awesome,.enjoy-super{
+    margin-top: 20px;
+}
