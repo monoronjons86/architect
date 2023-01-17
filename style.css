@@ -155,3 +155,17 @@ width: 50%;
     margin-top: 20px;
 }
  /* --------end facts--------------- */
+
+ .Sponspors{
+    margin-top: 50px;
+    text-align: center;
+
+ }
+ .Sponspors p{
+    margin-top: 10px;
+ }
+ .sponspors-dec{
+    margin-top:35px;
+    display: flex;
+    justify-content: space-around;
+ }
