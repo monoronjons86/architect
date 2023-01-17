@@ -98,4 +98,6 @@ width: 50%;
 }
 .enjoy-desktop,.enjoy-drag,.enjoy-awesome,.enjoy-super{
     margin-top: 20px;
+    background-color:beige;
+    border-radius: 6px;
 }
