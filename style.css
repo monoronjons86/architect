@@ -101,3 +101,57 @@ width: 50%;
     background-color:beige;
     border-radius: 6px;
 }
+/*-----------end enjoy------- */
+
+/* ------start facts-------- */
+.facts{
+    margin-top: 70px;
+    padding: 0px 150px;
+    
+}
+.facts p{
+    margin-top: 10px;
+}
+.fact-box{
+    display: flex;
+    justify-content:space-around;
+    margin-top: 50px;
+}
+.awards{
+    height: 150px;
+    width: 150px;
+    border: 1px solid red;
+    text-align: center;
+}
+.awards img{
+    margin-top: 20px;
+}
+.project{
+    height: 150px;
+    width: 150px;
+    border: 1px solid red;
+    text-align: center;
+}
+.project img{
+    margin-top: 20px;
+}
+.Clients{
+    height: 150px;
+    width: 150px;
+    border: 1px solid red;
+    text-align: center;
+}
+.Clients img{
+    margin-top: 20px;
+}
+.Email{
+    height: 150px;
+    width: 150px;
+    border: 1px solid red;
+    text-align: center;
+
+}
+.Email img{
+    margin-top: 20px;
+}
+ /* --------end facts--------------- */
