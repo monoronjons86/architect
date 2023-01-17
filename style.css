@@ -156,6 +156,7 @@ width: 50%;
 }
  /* --------end facts--------------- */
 
+ /* -------------start sponspors------- */
  .Sponspors{
     margin-top: 50px;
     text-align: center;
@@ -169,3 +170,14 @@ width: 50%;
     display: flex;
     justify-content: space-around;
  }
+ /* end sponspors */
+
+ /* --------start footer-------- */
+ footer{
+    margin-top: 50px;
+    background-color: antiquewhite;
+    text-align: center;
+    height: 50px;
+    padding-top:20px;
+ }
+
